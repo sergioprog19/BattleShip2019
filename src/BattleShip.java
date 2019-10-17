@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class BattleShip {
 	
-	//Hola mundo
 	
 	public static final int SHIP_SYMBOL = 'S';
 	public static final int WATER_SYMBOL = 'O';
